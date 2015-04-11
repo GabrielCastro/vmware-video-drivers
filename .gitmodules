@@ -1,0 +1,12 @@
+[submodule "drm"]
+	path = drm
+	url = git://anongit.freedesktop.org/git/mesa/drm
+[submodule "vmwgfx"]
+	path = vmwgfx
+	url = git://anongit.freedesktop.org/git/mesa/vmwgfx
+[submodule "xf86-video-vmware"]
+	path = xf86-video-vmware
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-vmware
+[submodule "mesa"]
+	path = mesa
+	url = git://anongit.freedesktop.org/git/mesa/mesa
